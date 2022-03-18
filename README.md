@@ -5,9 +5,9 @@ This repository contains some code.
 
 ## Requirements
 
-- numpy
-- pandas
-- scikit-learn
-- jupyter
+- `numpy`
+- `pandas`
+- `scikit-learn`
+- `jupyter`
 
 ## How to run the code 
