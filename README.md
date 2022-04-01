@@ -9,5 +9,7 @@ This repository contains some code.
 - `pandas`
 - `scikit-learn`
 - `jupyter`
+- `matplotlib`
 
 ## How to run the code 
+Launch jupyter notebook and enjoy
